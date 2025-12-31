@@ -1,2 +1,1 @@
-# data-analytics
-WiDS x USS Dataverse project 2025.
+Data analytics project.
